@@ -20,22 +20,20 @@ The following sources provide further information on Seastalker:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Seastalker listed in the Infocom Fact Sheet. It also holds the source files for versions 15 and 18/850919.
-
-| Release | Serial | Story File                           | Zarf Sources         | Historical Sources |
-| -------:|:------:|:------------------------------------:|:--------------------:|:------------------:|
-|      86 | 840320 |     [seastalker-beta-r86-s840320.z3] |                    - |                 - |
-|      15 | 840501 |          [seastalker-r15-s840501.z3] | [seastalker-r15.zip] |     [revision 15] |
-|      15 | 840522 |    [seastalker-atari-r15-s840522.z3] |                    " |                 " |
-|      15 | 840522 |      [seastalker-mac-r15-s840522.z3] |                    " |                 " |
-|      15 | 840612 |     [seastalker-coco-r15-s840612.z3] |                    " |                 " |
-|      15 | 840716 |    [seastalker-tandy-r15-s840716.z3] |                    " |                 " |
-|      17 | 850208 |    [seastalker-atari-r17-s850208.z3] |                    - |                 - |
-|      17 | 850208 | [seastalker-nonatari-r17-s850208.z3] |                    - |                 - |
-|      16 | 850515 |          [seastalker-r16-s850515.z3] |                    - |                 - |
-|      16 | 850603 |          [seastalker-r16-s850603.z3] |                    - |                 - |
-|      16 | 850603 |      [seastalker-reg-r16-s850603.z3] |                    - |                 - |
-|      18 | 850919 |          [seastalker-r18-s850919.z3] | [seastalker-r18.zip] |  [final revision] |
+| Release | Serial | Type | Story File                           | Obsessive Sources    | Historical Sources |
+| -------:|:------:|:----:|:------------------------------------:|:--------------------:|:------------------:|
+|      86 | 840320 |  DEV |     [seastalker-beta-r86-s840320.z3] |                    - |                  - |
+|      15 | 840501 |  PUB |          [seastalker-r15-s840501.z3] | [seastalker-r15.zip] |      [revision 15] |
+|      15 | 840522 |  PUB |    [seastalker-atari-r15-s840522.z3] |                    " |                  " |
+|      15 | 840522 |  PUB |      [seastalker-mac-r15-s840522.z3] |                    " |                  " |
+|      15 | 840612 |  PUB |     [seastalker-coco-r15-s840612.z3] |                    " |                  " |
+|      15 | 840716 |  PUB |    [seastalker-tandy-r15-s840716.z3] |                    " |                  " |
+|      17 | 850208 |  DEV |    [seastalker-atari-r17-s850208.z3] |                    - |                  - |
+|      17 | 850208 |  DEV | [seastalker-nonatari-r17-s850208.z3] |                    - |                  - |
+|      16 | 850515 |  PUB |          [seastalker-r16-s850515.z3] |                    - |                  - |
+|      16 | 850603 |  ??? |          [seastalker-r16-s850603.z3] |                    - |                  - |
+|      16 | 850603 |  PUB |      [seastalker-reg-r16-s850603.z3] |                    - |                  - |
+|      18 | 850919 |  FIN |          [seastalker-r18-s850919.z3] | [seastalker-r18.zip] |   [final revision] |
 
 [seastalker-beta-r86-s840320.z3]: https://eblong.com/infocom/gamefiles/seastalker-beta-r86-s840320.z3
 
